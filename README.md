@@ -1,8 +1,8 @@
 <h1 align="center">Languages-Frameworks-Tools</h1>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py" /><br />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,spring,discordjs,mysql,postgres,sqlite" /><br />
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,idea,npm,docker,postman" /><br />
+    <img href="https://github.com/flipps12" src="https://skillicons.dev/icons?i=html,css,js,ts,java,py" /><br />
+    <img href="https://github.com/flipps12" src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,spring,discordjs,mysql,postgres,sqlite" /><br />
+    <img href="https://github.com/flipps12" src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,idea,npm,docker,postman" /><br />
 </div>
 <h1 align="center">Stats</h1>
 
