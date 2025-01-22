@@ -3,7 +3,7 @@
     <a href="https://github.com/flipps12">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,java,py" /><br />
         <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,spring,discordjs,mysql,postgres" /><br />
-        <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,idea,npm,postman" /><br />
+        <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,idea,npm,docker,postman" /><br />
     </a>
 </div>
 <h1 align="center">Stats</h1>
