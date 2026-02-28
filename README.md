@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" />
+</div>
+
 <h1 align="center">Languages-Frameworks-Tools</h1>
 <div align="center">
     <a href="https://github.com/flipps12">
@@ -14,3 +18,7 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Flipps12&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,glsl&count_private=true"/>
 </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer&text=&animation=fadeIn" />
+</div>
